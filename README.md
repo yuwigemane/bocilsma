@@ -1,2 +1,1 @@
-# bocilsma
-bocilsma
+# [bocilsma](https://bocilsma.pages.dev)
